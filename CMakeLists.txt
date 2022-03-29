@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22.0)
 
-set(PROJECT_NAME cool_project)
+set(PROJECT_NAME water_simulator)
 
 project(${PROJECT_NAME})
 
