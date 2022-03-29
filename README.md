@@ -1,6 +1,4 @@
-# conan-template
-Template for future projects with conan support
-
+https://youtu.be/SxUbrnDGcao
 ```
 mkdir build && cd build
 conan install .. --build=missing
